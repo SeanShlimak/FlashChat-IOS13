@@ -1,0 +1,6 @@
+framework module Pods_FlashChat_IOS13 {
+  umbrella header "Pods-FlashChat-IOS13-umbrella.h"
+
+  export *
+  module * { export * }
+}
