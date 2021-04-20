@@ -17,7 +17,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Ahv-PC-iYj" customClass="CLTypingLabel" customModule="CLTypingLabel">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Ahv-PC-iYj" customClass="CLTypingLabel" customModule="FlashChat_IOS13" customModuleProvider="target">
                                 <rect key="frame" x="207" y="448" width="0.0" height="0.0"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="50"/>
                                 <color key="textColor" red="0.72941176470000002" green="0.41960784309999999" blue="0.3411764706" alpha="1" colorSpace="calibratedRGB"/>
@@ -125,12 +125,10 @@
                                 <color key="backgroundColor" name="BrandLightPurple"/>
                                 <constraints>
                                     <constraint firstItem="05D-xQ-f9A" firstAttribute="centerX" secondItem="qfH-JG-3ed" secondAttribute="centerX" id="8rp-Z7-cKo"/>
-                                    <constraint firstItem="05D-xQ-f9A" firstAttribute="leading" secondItem="qfH-JG-3ed" secondAttribute="leading" constant="8" id="A0I-Gr-uqf"/>
                                     <constraint firstItem="1XY-VN-cBo" firstAttribute="top" secondItem="qfH-JG-3ed" secondAttribute="top" constant="8" id="HTP-eP-Do4"/>
                                     <constraint firstItem="d8y-so-rCs" firstAttribute="top" secondItem="qfH-JG-3ed" secondAttribute="top" constant="25" id="Nq9-Ay-HB2"/>
                                     <constraint firstAttribute="trailing" secondItem="d8y-so-rCs" secondAttribute="trailing" constant="8" id="VO6-j9-iZY"/>
                                     <constraint firstAttribute="trailing" secondItem="1XY-VN-cBo" secondAttribute="trailing" constant="8" id="Yfs-Ex-kYl"/>
-                                    <constraint firstItem="d8y-so-rCs" firstAttribute="leading" secondItem="qfH-JG-3ed" secondAttribute="leading" constant="8" id="ZeT-ZH-W91"/>
                                     <constraint firstItem="1XY-VN-cBo" firstAttribute="leading" secondItem="qfH-JG-3ed" secondAttribute="leading" constant="8" id="bRo-wN-umN"/>
                                     <constraint firstItem="d8y-so-rCs" firstAttribute="centerX" secondItem="qfH-JG-3ed" secondAttribute="centerX" id="jAV-eJ-nMa"/>
                                     <constraint firstItem="05D-xQ-f9A" firstAttribute="top" secondItem="1XY-VN-cBo" secondAttribute="bottom" constant="50" id="p7H-Gq-Yww"/>
